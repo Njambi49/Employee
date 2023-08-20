@@ -1,0 +1,14 @@
+C:\Users\v-mnjambi\source\repos\Employees\Employees\bin\Debug\net7.0\Employer.exe
+C:\Users\v-mnjambi\source\repos\Employees\Employees\bin\Debug\net7.0\Employer.deps.json
+C:\Users\v-mnjambi\source\repos\Employees\Employees\bin\Debug\net7.0\Employer.runtimeconfig.json
+C:\Users\v-mnjambi\source\repos\Employees\Employees\bin\Debug\net7.0\Employer.dll
+C:\Users\v-mnjambi\source\repos\Employees\Employees\bin\Debug\net7.0\Employer.pdb
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\Employer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\Employer.AssemblyInfoInputs.cache
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\Employer.AssemblyInfo.cs
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\Employer.csproj.CoreCompileInputs.cache
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\Employer.dll
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\refint\Employer.dll
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\Employer.pdb
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\Employer.genruntimeconfig.cache
+C:\Users\v-mnjambi\source\repos\Employees\Employees\obj\Debug\net7.0\ref\Employer.dll
